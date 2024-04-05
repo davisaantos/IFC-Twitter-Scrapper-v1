@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 3. Crie um arquivo `.env` indicando as credenciais (tokens) de acesso para as tabelas do Airtable. O arquivo `.env.example` pode ser alterado, renomeado e usado como base.
 
-4. Criar um arquivo `accounts.txt` indicando as credenciais de acesso ao email e Twitter. O arquivo `accounts.txt.example` pode ser usado como base.
+4. Criar um arquivo `accounts.txt` indicando as credenciais de acesso ao email e Twitter. O arquivo `accounts.example` pode ser usado como base.
 
 5. Adicionar as contas do Twitter com o `twscrape`.
 ```bash
